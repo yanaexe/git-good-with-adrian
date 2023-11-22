@@ -56,6 +56,11 @@
             "name" : "Adrian",
             "year" : 3,
             "preferred_lang" : "Java"
+        },
+        {
+            "name": "Jana",
+            "year": 2,
+            "preferred_lang": "C"
         }
     ]
 }
